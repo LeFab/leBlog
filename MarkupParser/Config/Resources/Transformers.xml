@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<transformers>
+  <transformer markupStart="#!" markupEnd="!#" cssClass="lb-header" />
+  <transformer markupStart="#*" markupEnd="*#" cssClass="lb-bold" />
+  <transformer markupStart="#/" markupEnd="/#" cssClass="lb-italic" />
+  <transformer markupStart="#_" markupEnd="_#" cssClass="lb-underlined" />
+  <imgTransformer markupStart="#I" markupEnd="I#" cssClass="lb-image" />
+</transformers>
